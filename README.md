@@ -7,7 +7,10 @@ Estructura del repositorio
 El directorio "beginner" contiene ejercicios para principiantes que cubren conceptos básicos de Python, como variables, operadores, estructuras de control de flujo, funciones, listas y diccionarios.
 El directorio "intermediate" contiene ejercicios para desarrolladores intermedios que cubren temas más avanzados, como programación orientada a objetos, manipulación de archivos y procesamiento de texto.
 El directorio "advanced" contiene ejercicios para desarrolladores experimentados que cubren temas avanzados, como concurrencia, programación en red y creación de interfaces de usuario.
-Cómo usar este repositorio
+
+
+Cómo usar este repositorio.
+
 Cada ejercicio está contenido en su propio archivo Python. Cada archivo contiene una descripción del problema que se está abordando y las instrucciones para resolver el problema. También se proporcionan ejemplos de entrada y salida para ayudarte a verificar tu solución.
 
 Para empezar, simplemente elige un ejercicio que te interese y comienza a trabajar en él. Si te quedas atascado o tienes alguna pregunta, no dudes en crear un problema en este repositorio y pedir ayuda. También puedes colaborar resolviendo problemas creados por otros usuarios y revisando sus soluciones.
